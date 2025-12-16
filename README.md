@@ -127,7 +127,7 @@ Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 Development Environment: Jupyter Notebook
 
 Version Control: Git & GitHub
-
+```
 📁 Project Structure
 Student-Dropout-Prediction/
 │
@@ -139,7 +139,7 @@ Student-Dropout-Prediction/
 │
 ├── README.md
 └── requirements.txt
-
+```
 ▶️ How to Run the Project
 
 Clone the repository
